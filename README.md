@@ -1,4 +1,4 @@
-### Lim9507 Information
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Lim%20&height=300&fontSize=100&textBg=true)
 
 <!--
 **lim9507/lim9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
