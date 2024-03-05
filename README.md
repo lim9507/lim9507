@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lim%20Information%20&height=200&fontSize=60&textBg=true)
 <br><br><br>
 # Languages <br>
-![badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) ![badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![badge](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black) ![badge](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white) ![badge](https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white) ![badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 <br><br>
 # Tools <br>
 ![badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![badge](https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![badge](https://img.shields.io/badge/Arm%20Keil-394049?style=flat-square&logo=armkeil&logoColor=white) ![badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
