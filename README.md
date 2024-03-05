@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Lim%20information%20&height=300&fontSize=80&textBg=true)
+<br> ![badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) ![badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![badge](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br> ![badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![badge](https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![badge](https://img.shields.io/badge/Arm%20Keil-394049?style=flat-square&logo=armkeil&logoColor=white)
 
 <!--
 **lim9507/lim9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
