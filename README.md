@@ -5,7 +5,7 @@
 <br><br>
 # Tools <br>
 ![badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![badge](https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![badge](https://img.shields.io/badge/Arm%20Keil-394049?style=flat-square&logo=armkeil&logoColor=white) ![badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-<br> ![badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br> ![badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 <br><br>
 # Education <br>
 ![badge](https://img.shields.io/badge/[intel]%20Edge%20AI%20S/W%20Academy-0071C5?style=flat-square&logo=&logoColor=white)
