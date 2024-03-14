@@ -9,6 +9,8 @@
 <br><br>
 # Education <br>
 ![badge](https://img.shields.io/badge/[intel]%20Edge%20AI%20S/W%20Academy-0071C5?style=flat-square&logo=&logoColor=white)
+<br><br>
+[My GitHub Repository](https://github.com/lim9507/motionKeyboardMouse)
 
 <!--
 **lim9507/lim9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
