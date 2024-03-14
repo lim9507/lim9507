@@ -11,8 +11,9 @@
 ![badge](https://img.shields.io/badge/[intel]%20Edge%20AI%20S/W%20Academy-0071C5?style=flat-square&logo=&logoColor=white)
 <br><br>
 # Projects <br>
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=lim9507&repo=motionKeyboardMouse&show_icons=true&theme=radical&icon_width=100&icon_height=100)](https://github.com/lim9507/motionKeyboardMouse) <br>
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=lim9507&repo=MySQL_C-_IoT_RBerry4&show_icons=true&theme=radical&icon_width=40&icon_height=40)](https://github.com/lim9507/MySQL_C-_IoT_RBerry4)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=lim9507&repo=motionKeyboardMouse&show_icons=true&theme=radical&icon_width=40&icon_height=40)](https://github.com/lim9507/motionKeyboardMouse) <br>
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=lim9507&repo=MySQL_C-_IoT_RBerry4&show_icons=true&theme=radical&icon_width=40&icon_height=40)](https://github.com/lim9507/MySQL_C-_IoT_RBerry4)
+
 <!--
 **lim9507/lim9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
