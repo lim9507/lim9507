@@ -14,8 +14,8 @@
 <!--
 [![image](motion.jpg)](https://github.com/lim9507/motionKeyboardMouse) <br>
 [![image](smartfarm.jpg)](https://github.com/lim9507/MySQL_C-_IoT_RBerry4) <br> -->
-[<img src="motion.jpg" width="400" height="70"/>](https://github.com/lim9507/motionKeyboardMouse) 
-[<img src="smartfarm.jpg" width="400" height="70"/>](https://github.com/lim9507/MySQL_C-_IoT_RBerry4)
+[<img src="motion.jpg" width="370" height="70"/>](https://github.com/lim9507/motionKeyboardMouse) 
+[<img src="smartfarm.jpg" width="370" height="70"/>](https://github.com/lim9507/MySQL_C-_IoT_RBerry4)
 <!--
 **lim9507/lim9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
