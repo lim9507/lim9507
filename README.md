@@ -15,7 +15,8 @@
 #### S/W Architecture - Understanding and utilizing software design methodology, Understanding software design patterns <br>
 #### Linux server - Understanding Linux operating systems, Installation and Deployment APM, Leverage open platform H/W <br>
 #### 　　　　　　 - ARM Cortex-A Series bootloader Development and H/W control, Linux kernel/Device drivers(STM, Raspberry) <br>
-#### AI Machine learning - Structure and expression of the image
+#### AI Machine learning - Structure and expression of the image, Edge programing, Developing an Interface for Inference <br>
+#### 　　　　　 　　 　　  - Preparing data for model development, AI Model development and inference
 <br><br>
 # Projects <br>
 <!--
