@@ -10,7 +10,7 @@
 # Education <br>
 ![badge](https://img.shields.io/badge/[intel]%20Edge%20AI%20S/W%20Academy-0071C5?style=flat-square&logo=&logoColor=white) <br>
 #### Procedural, object orientation programing - Learn C, C++, C#, Python languages <br>
-#### Firmware programming - Arm Cortex-M series processes, Control GPIO, timers, interrupt, Implement wired/wireless communication <br>
+#### Firmware programming - Arm Cortex-M series processes, Control GPIO, timers, interrupt, wired/wireless communication <br>
 #### GUI Framework - UI/UX Understanding graphic objects, Development of cross-platform framework by operating system <br>
 #### S/W Architecture - Understanding and utilizing software design methodology, Understanding software design patterns <br>
 #### Linux server - Understanding Linux operating systems, Installation and Deployment APM, Leverage open platform H/W <br>
