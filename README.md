@@ -14,7 +14,8 @@
 #### GUI Framework - UI/UX Understanding graphic objects, Development of cross-platform framework by operating system <br>
 #### S/W Architecture - Understanding and utilizing software design methodology, Understanding software design patterns <br>
 #### Linux server - Understanding Linux operating systems, Installation and Deployment APM, Leverage open platform H/W <br>
-#### 　　　　　　 - ARM Cortex-A Series bootloader Development and H/W control, Linux kernel/Device drivers(STM, Raspberry) <br>           
+#### 　　　　　　 - ARM Cortex-A Series bootloader Development and H/W control, Linux kernel/Device drivers(STM, Raspberry) <br>
+#### AI Machine learning - Structure and expression of the image
 <br><br>
 # Projects <br>
 <!--
